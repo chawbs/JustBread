@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/goSpeakDevotion" android:title="Read" android:showAsAction="ifRoom" android:icon="@drawable/ics_play"></item><item android:title="Share Link" android:id="@+id/goShareLink" android:icon="@drawable/ics_share_lnk" android:showAsAction="ifRoom" />
+    <item android:title="Share Text" android:id="@+id/goShareText" android:icon="@drawable/ics_share_txt" android:showAsAction="ifRoom" />
+    <item android:title="Settings" android:id="@+id/goSettings" android:icon="@drawable/ics_settings" />
+    <item android:title="Refresh" android:id="@+id/goRefresh" android:icon="@drawable/ics_refresh" />
+    <item android:id="@+id/goRateMe" android:title="Rate JustBread" android:icon="@drawable/ics_ok"></item>
+
+</menu>

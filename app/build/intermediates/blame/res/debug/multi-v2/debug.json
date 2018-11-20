@@ -1,0 +1,95 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\david\\StudioProjects\\JustBread\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\david\\StudioProjects\\JustBread\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\david\\StudioProjects\\JustBread\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\david\\StudioProjects\\JustBread\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "55,62",
+                        "startColumns": "4,4",
+                        "startOffsets": "2195,2486",
+                        "endLines": "61,64",
+                        "endColumns": "12,12",
+                        "endOffsets": "2481,2641"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\david\\StudioProjects\\JustBread\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "37,31,27,12,22,46,3,20,8,6,4,5,11,9,26,19,7,45,21,10,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,4,4",
+                        "startOffsets": "1451,1282,1165,626,988,1957,58,901,352,211,106,160,557,412,1106,843,298,1906,943,469,1792,1856",
+                        "endLines": "42,36,30,18,25,55,3,20,8,6,4,5,11,9,26,19,7,45,21,10,43,44",
+                        "endColumns": "19,19,19,19,19,19,46,41,59,86,52,50,68,56,58,57,53,47,44,87,63,51",
+                        "endOffsets": "1787,1446,1277,838,1101,2203,100,938,407,293,154,206,621,464,1160,896,347,1952,983,552,1851,1903"
+                    },
+                    "to": {
+                        "startLines": "2,8,14,18,25,29,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,392,557,672,889,1007,1258,1305,1347,1407,1494,1547,1598,1667,1724,1783,1841,1895,1946,1991,2079,2143",
+                        "endLines": "7,13,17,24,28,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54",
+                        "endColumns": "19,19,19,19,19,19,46,41,59,86,52,50,68,56,58,57,53,50,44,87,63,51",
+                        "endOffsets": "387,552,667,884,1002,1253,1300,1342,1402,1489,1542,1593,1662,1719,1778,1836,1890,1941,1986,2074,2138,2190"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\david\\StudioProjects\\JustBread\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\david\\StudioProjects\\JustBread\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

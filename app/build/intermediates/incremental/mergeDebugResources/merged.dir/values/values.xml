@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bibleLookups">
+        <item>http://kjv.fbcuk.org/kjv_extract.php?address=</item>
+        <item>http://labs.bible.org/api/?passage=</item>
+        <item>http://www.esvapi.org/v2/rest/passageQuery?key=IP&amp;passage=</item>
+        <item>http://bbf.fbcxt.org/getNKJVpassage.php?passage=</item>
+    </string-array>
+    <string-array name="bibleTranslations">
+        <item>KJV</item>
+        <item>NET</item>
+        <item>ESV</item>
+        <item>NKJV</item>
+    </string-array>
+    <string-array name="notifications">
+        <item>Default</item>
+        <item>Pick</item>
+    </string-array>
+    <string-array name="refresh_interval">
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+        <item>2 Hours</item>
+        <item>6 Hours</item>
+        <item>Do Not Refresh</item>
+    </string-array>
+    <string-array name="themes">
+        <item>Dark Theme</item>
+        <item>Light Theme</item>
+    </string-array>
+    <string-array name="zooms">
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+        <item>175</item>
+        <item>200</item>
+        <item>225</item>
+        <item>250</item>
+    </string-array>
+    <string name="app_name">JustBread</string>
+    <string name="btn_save">Save</string>
+    <string name="cannot_fetch">Cannot Fetch Bread</string>
+    <string name="feed_string">http://justbread.org/getlatestbread.php?trans=</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_data">There is a new devotion waiting</string>
+    <string name="no_net">No Network Connection</string>
+    <string name="notify_text">Notification Sound</string>
+    <string name="refresh_text">Refresh Interval</string>
+    <string name="reget">Re-getting All Days</string>
+    <string name="text_zoom">Percent Zoom</string>
+    <string name="theme_text">Theme</string>
+    <string name="time_url">http://justbread.org/getlocalisedlatest?format=raw</string>
+    <string name="translations_text">Bible Translation</string>
+    <string name="wakelock_text">Wake Lock</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
